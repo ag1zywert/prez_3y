@@ -1,0 +1,85 @@
+---
+title: "Kultura honoru"
+author: "Maria Szewc & Agata Zywert"
+output:
+  revealjs::revealjs_presentation:
+    theme: night
+    center: true
+    incremental: true
+---
+
+
+# Co to jest **kultura honoru**?
+
+## Czy **honor** może być nazwany wartością uniwersalną kulturową?
+
+## ![](sokrates.jpg)
+
+## ![](rycerze.jpg)
+
+## ![](samuraj.jpeg)
+
+## ![](azteki.jpeg)
+
+## ![](model1.jpg)
+
+
+# Warunki ekologiczne kultury honoru i jej psychologiczne konsekwencje
+
+## Duma, wstyd, gniew
+
+ ![](west_world.jpg)
+
+## Badania Nisbetta
+
+* Badania archiwalne
+* Badania eksperymentalne
+
+##
+
+![](schemat.png)
+
+## Względne zmiany stężenia hormonów stresu w warunkach eksperymentalnych i kontrolnych w zależności od regionu pochodzenia 
+
+## ![](1_bad.png)
+
+## Konsekwencje zniewagi dla zachowania interpersonalnego oraz reputacji społecznej w zależności do regionu pochodzenia
+
+![](2_bad.png)
+
+#
+
+## Inne pejpery
+
+* School Violence and the Culture of Honor (Ryan P. Brown, Lindsey L. Osterman, and Collin D. Barnes The University of Oklahoma)
+
+* Understanding  College Sport Fans'Experiences of and Attempts to Cope with Shame (Julie A. Partridge Southern Illinois University Carbondale, Daniel L. annMurray State University Jeff Elison Purdue University)
+
+* A different kind of honor culture: Family honor and aggression in Turks (Yvette van Osch, Seger M. Breugelmans,Marcel Zeelenberg and Pinar Bölük)
+
+* Sport jako społeczna enklawa kultury honoru (Szmajke A., Machera K.)
+
+#
+
+## A co z Polską?
+
+ ![](flaga.jpg)
+ 
+## Honor po polsku
+
+* Słowo honoru
+* Bóg, Honor, Ojczyzna
+* Ślubowane immatrykulacyjne
+
+## Honor w literaturze 
+![](tadeusz.jpg)
+
+# Dziękujemy za uwagę 
+
+## Bibliografia
+
+* Kultura honoru w procesie socjalizacji zawodowej wojskowych, Jarmoszko Stanisław, 
+Colloquium Wydziału Nauk Humanistycznych i Społecznych AMW 2014 
+* Kulturowe ramy zachowań społecznych, Paweł Boski, Wydawnictwo Naukowe PWN, Warszawa 2009
+
+
